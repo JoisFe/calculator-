@@ -57,6 +57,6 @@ int multi(int number1, int number2)
  
 int div(int number1, int number2)
 {
-	//TODO implementation
+	//jo jae cheol이 바꿈
 	return 0;
 }
