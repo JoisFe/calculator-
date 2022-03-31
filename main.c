@@ -45,7 +45,7 @@ int add(int number1, int number2)
  
 int sub(int number1, int number2)
 {
-	//this is hyunjin subtraction
+	//TODO implementation
 	return 0;
 }
  
@@ -57,6 +57,6 @@ int multi(int number1, int number2)
  
 int div(int number1, int number2)
 {
-	//TODO implementation
+	//jo jae cheol --> div 구현함
 	return 0;
 }
